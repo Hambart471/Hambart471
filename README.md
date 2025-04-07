@@ -14,16 +14,16 @@
 
 ### 🚀 About Me
 
-I'm a self-taught C++ developer with a background in journalism.  
-In the past year, I’ve been deeply focused on mastering modern C++, practicing on LeetCode, and building small projects to explore:
+Welcome! I am a self-taught C++ developer with a strong focus on modern C++, data structures, algorithms, and multithreading.  
+Over the past year, I’ve been building small projects and solving algorithmic challenges to deepen my knowledge of:
 
-- 📌 Algorithms  
-- 🧱 Data Structures  
-- 💡 OOP  
-- 🔁 Multithreading  
-- 📚 STL  
+- Algorithms  
+- Data Structures  
+- Object-Oriented Programming  
+- Multithreading  
+- The Standard Template Library (STL)
 
-I’m currently looking for my first role as a **Junior C++ Developer**.
+Below are some of my projects with code examples and links.
 
 ---
 
@@ -39,32 +39,42 @@ I’m currently looking for my first role as a **Junior C++ Developer**.
 
 ### 📌 Featured Projects
 
-🧩 **Procedural Programming**  
+**Procedural Programming**  
 Two-Dimensional Dynamic Array  
+Dynamic memory allocation, pointer arithmetic, and clean array management.  
 ➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/055_container_two_dimensional_dynamic_array/main.cpp)
 
-🧱 **OOP**  
+**Object-Oriented Programming (OOP)**  
 MyString Class Implementation  
+A custom implementation of a string class with constructors, destructors, copy semantics.  
 ➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/036_OOP_string/main.cpp)
 
-🔗 **Data Structures**  
+**Data Structures**  
 MyLinkedList – singly linked list  
+A manually implemented singly linked list with basic operations.  
 ➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/056_container_linked_list/main.cpp)
 
-⚙️ **Multithreading**  
+**Algorithms**  
+LeetCode Solutions  
+I regularly solve algorithmic problems on LeetCode to improve my skills.  
+➡️ [My Profile](https://leetcode.com/u/hambart471/)
+
+**Multithreading**  
 Deadlock Example (std::mutex)  
+A demonstration of a classic deadlock situation using `std::mutex`.  
 ➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/096_multithreading_deadlock/main.cpp)
 
 Lambda Thread with Timer  
+Demonstrates creating a thread with a lambda, concurrent execution with the main thread, and measuring execution time using RAII.  
 ➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/093_multithreading_runtime/main.cpp)
 
-🧠 **STL Examples**  
+**STL Examples**  
 - [Unordered Map](https://github.com/Hambart471/My_Programs/blob/master/062_associative_container_unordered_map/main.cpp)  
 - [Sort](https://github.com/Hambart471/My_Programs/blob/master/075_algorithm_sort/main.cpp)  
 - [Random Shuffle](https://github.com/Hambart471/My_Programs/blob/master/077_algorithm_random_shuffle/main.cpp)  
 - [Find](https://github.com/Hambart471/My_Programs/blob/master/078_algorithm_find/main.cpp)
 
-📘 **Book Practice**  
+**Book Practice**  
 _Stroustrup’s “Programming: Principles and Practice Using C++”_  
 ➡️ [My solutions](https://github.com/Hambart471/Stroustrup_PPP3)
 
@@ -72,10 +82,8 @@ _Stroustrup’s “Programming: Principles and Practice Using C++”_
 
 ### 📫 Contacts
 
-- 📧 Email: constantinemalania@gmail.com  
-- 💻 GitHub: [github.com/Hambart471](https://github.com/Hambart471)  
-- 🧠 LeetCode: [leetcode.com/u/hambart471](https://leetcode.com/u/hambart471)
+- Email: constantinemalania@gmail.com  
+- GitHub: [github.com/Hambart471](https://github.com/Hambart471)  
+- LeetCode: [leetcode.com/u/hambart471](https://leetcode.com/u/hambart471)
 
 ---
-
-Thanks for visiting my profile! ⭐️
