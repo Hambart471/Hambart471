@@ -1,8 +1,5 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Constantine 👋</h1>
-<h3 align="center">Self-taught C++ Developer</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
