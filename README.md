@@ -14,8 +14,7 @@
 
 ### 🚀 About Me
 
-Welcome! I am a self-taught C++ developer with a strong focus on modern C++, data structures, algorithms, and multithreading.  
-Over the past year, I’ve been building small projects and solving algorithmic challenges to deepen my knowledge of:
+Welcome! I am a self-taught C++ developer. In the past year, I’ve been deeply focused on mastering modern C++, practicing on LeetCode, and building small projects to explore:
 
 - Algorithms  
 - Data Structures  
