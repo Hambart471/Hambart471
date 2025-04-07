@@ -1,73 +1,84 @@
-# C++ Developer – Portfolio
+<!-- GitHub Profile README -->
 
-Welcome! I am a self-taught C++ developer.  
-Over the past year, I’ve been actively studying modern C++ and solving problems on LeetCode, building small projects to deepen my understanding of algorithms, data structures, OOP, multithreading, and the STL.
+<h1 align="center">Hi, I'm Constantine 👋</h1>
+<h3 align="center">Self-taught C++ Developer</h3>
 
-Below are some of my projects with code examples and links:
-
----
-
-## 📌 Featured Projects
-
-### 🔷 Procedural Programming
-**Two-Dimensional Dynamic Array**  
-Dynamic memory allocation, pointer arithmetic, and clean array management.  
-➡️ [View Code](https://github.com/Hambart471/My_Programs/blob/master/055_container_two_dimensional_dynamic_array/main.cpp)
-
----
-
-### 🔷 Object-Oriented Programming (OOP)
-**MyString**  
-A custom implementation of a string class with constructors, destructors, copy semantics.  
-➡️ [View Code](https://github.com/Hambart471/My_Programs/blob/master/036_OOP_string/main.cpp)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+</p>
 
 ---
 
-### 🔷 Data Structures
-**MyLinkedList**  
-A manually implemented singly linked list with basic operations.  
-➡️ [View Code](https://github.com/Hambart471/My_Programs/blob/master/056_container_linked_list/main.cpp)
+### 🚀 About Me
+
+I'm a self-taught C++ developer with a background in journalism.  
+In the past year, I’ve been deeply focused on mastering modern C++, practicing on LeetCode, and building small projects to explore:
+
+- 📌 Algorithms  
+- 🧱 Data Structures  
+- 💡 OOP  
+- 🔁 Multithreading  
+- 📚 STL  
+
+I’m currently looking for my first role as a **Junior C++ Developer**.
 
 ---
 
-### 🔷 Algorithms
-**LeetCode Solutions**  
-I regularly solve algorithmic problems on LeetCode to improve my skills.  
-➡️ [My Profile](https://leetcode.com/u/hambart471/)
+### 🔧 Technologies I Use
+
+- C++, Python, C#
+- Visual Studio, Linux
+- Git, GitHub
+- STL, Multithreading
+- Unity, XAML
 
 ---
 
-### 🔷 Multithreading
-**Deadlock Example**  
-A demonstration of a classic deadlock situation using `std::mutex`.  
-➡️ [View Code](https://github.com/Hambart471/My_Programs/blob/master/096_multithreading_deadlock/main.cpp)
+### 📌 Featured Projects
 
-**Thread Example with Lambda & Timing**  
-Demonstrates creating a thread with a lambda, concurrent execution with the main thread, and measuring execution time using RAII.  
-➡️ [View Code](https://github.com/Hambart471/My_Programs/blob/master/093_multithreading_runtime/main.cpp)
+🧩 **Procedural Programming**  
+Two-Dimensional Dynamic Array  
+➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/055_container_two_dimensional_dynamic_array/main.cpp)
 
----
+🧱 **OOP**  
+MyString Class Implementation  
+➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/036_OOP_string/main.cpp)
 
-### 🔷 STL (Standard Template Library)
+🔗 **Data Structures**  
+MyLinkedList – singly linked list  
+➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/056_container_linked_list/main.cpp)
+
+⚙️ **Multithreading**  
+Deadlock Example (std::mutex)  
+➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/096_multithreading_deadlock/main.cpp)
+
+Lambda Thread with Timer  
+➡️ [Code](https://github.com/Hambart471/My_Programs/blob/master/093_multithreading_runtime/main.cpp)
+
+🧠 **STL Examples**  
 - [Unordered Map](https://github.com/Hambart471/My_Programs/blob/master/062_associative_container_unordered_map/main.cpp)  
-- [Algorithm: Sort](https://github.com/Hambart471/My_Programs/blob/master/075_algorithm_sort/main.cpp)  
-- [Algorithm: Random Shuffle](https://github.com/Hambart471/My_Programs/blob/master/077_algorithm_random_shuffle/main.cpp)  
-- [Algorithm: Find](https://github.com/Hambart471/My_Programs/blob/master/078_algorithm_find/main.cpp)
+- [Sort](https://github.com/Hambart471/My_Programs/blob/master/075_algorithm_sort/main.cpp)  
+- [Random Shuffle](https://github.com/Hambart471/My_Programs/blob/master/077_algorithm_random_shuffle/main.cpp)  
+- [Find](https://github.com/Hambart471/My_Programs/blob/master/078_algorithm_find/main.cpp)
+
+📘 **Book Practice**  
+_Stroustrup’s “Programming: Principles and Practice Using C++”_  
+➡️ [My solutions](https://github.com/Hambart471/Stroustrup_PPP3)
 
 ---
 
-## 📘 Book Projects
+### 📫 Contacts
 
-### *Programming: Principles and Practice Using C++* – by Bjarne Stroustrup  
-I am working through this book and uploading my solutions here:  
-➡️ [Stroustrup_PPP3 GitHub Repo](https://github.com/Hambart471/Stroustrup_PPP3)
+- 📧 Email: constantinemalania@gmail.com  
+- 💻 GitHub: [github.com/Hambart471](https://github.com/Hambart471)  
+- 🧠 LeetCode: [leetcode.com/u/hambart471](https://leetcode.com/u/hambart471)
 
 ---
 
-## 🔗 Contacts
-
-- 📧 Email: constantinemalania@gmail.com
-- 🧠 LeetCode: [leetcode.com/u/hambart471](https://leetcode.com/u/hambart471/)  
-- 💻 GitHub: [github.com/Hambart471](https://github.com/Hambart471)
-
-Thank you for checking out my work!
+Thanks for visiting my profile! ⭐️
