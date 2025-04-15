@@ -41,11 +41,11 @@ Below are some of my projects with code examples and links.
 A polished Windows console application to track daily calories and macros. Includes template search, calendar navigation, and food editing—all accessible with keyboard controls.
 
 <p align="center">
-  <img src="Calorie_Calculator/blob/master/1.gif" width="300" title="Date Display" />
-  <img src="Calorie_Calculator/blob/master/2.gif" width="300" title="Template Search" />
-  <img src="Calorie_Calculator/blob/master/3.gif" width="300" title="Add Custom Food" />
-  <img src="Calorie_Calculator/blob/master/4.gif" width="300" title="Calendar Navigation" />
-  <img src="Calorie_Calculator/blob/master/5.gif" width="300" title="Edit Food Entry" />
+  <img src="https://github.com/Hambart471/Calorie_Calculator/raw/master/1.gif" width="300" title="Date Display" />
+  <img src="https://github.com/Hambart471/Calorie_Calculator/raw/master/2.gif" width="300" title="Template Search" />
+  <img src="https://github.com/Hambart471/Calorie_Calculator/raw/master/3.gif" width="300" title="Add Custom Food" />
+  <img src="https://github.com/Hambart471/Calorie_Calculator/raw/master/4.gif" width="300" title="Calendar Navigation" />
+  <img src="https://github.com/Hambart471/Calorie_Calculator/raw/master/5.gif" width="300" title="Edit Food Entry" />
 </p>
 
 ➡️ [View Code](https://github.com/Hambart471/Calorie_Calculator)
