@@ -36,6 +36,22 @@ Below are some of my projects with code examples and links.
 
 ---
 
+### 🧮 Calorie Calculator (C++ Console App)
+
+A polished Windows console application to track daily calories and macros. Includes template search, calendar navigation, and food editing—all accessible with keyboard controls.
+
+<p align="center">
+  <img src="1.gif" width="300" title="Date Display" />
+  <img src="2.gif" width="300" title="Template Search" />
+  <img src="3.gif" width="300" title="Add Custom Food" />
+  <img src="4.gif" width="300" title="Calendar Navigation" />
+  <img src="5.gif" width="300" title="Edit Food Entry" />
+</p>
+
+➡️ [View Code](https://github.com/Hambart471/Calorie_Calculator)
+
+---
+
 ### 📌 Featured Projects
 
 **Procedural Programming**  
@@ -84,5 +100,3 @@ _Stroustrup’s “Programming: Principles and Practice Using C++”_
 - Email: constantinemalania@gmail.com  
 - GitHub: [github.com/Hambart471](https://github.com/Hambart471)  
 - LeetCode: [leetcode.com/u/hambart471](https://leetcode.com/u/hambart471)
-
----
