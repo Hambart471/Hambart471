@@ -47,10 +47,8 @@ A Qt6-based desktop downloader that launches multiple files in parallel threads,
 </p>
 
 <p align="center">
-  <a href="https://github.com/YourUser/DownloaderUI"><img src="https://github.com/YourUser/DownloaderUI/raw/main/assets/DownloaderUI.gif" alt="DownloaderUI Demo" width="400"/></a>
+  <a href="https://github.com/Hambart471/DownloaderUI"><img src="https://github.com/YourUser/DownloaderUI/raw/main/assets/DownloaderUI.gif" alt="DownloaderUI Demo" width="400"/></a>
 </p>
-
-[▶ View Demo](https://github.com/YourUser/DownloaderUI) • [⭐ Star](https://github.com/YourUser/DownloaderUI/stargazers) • [📄 License](https://github.com/YourUser/DownloaderUI/blob/main/LICENSE)
 
 ### 🧮 Calorie Calculator (C++ Console App)
 
