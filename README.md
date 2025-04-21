@@ -48,7 +48,7 @@ A Qt6‑based desktop downloader that launches multiple files in parallel thread
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Hambart471/DownloaderUI/main/assets/DownloaderUI.gif"
+    src="https://raw.githubusercontent.com/Hambart471/DownloaderUI/master/assets/DownloaderUI.gif"
     alt="DownloaderUI Demo"
     width="400"
   />
