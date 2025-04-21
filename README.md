@@ -36,6 +36,22 @@ Below are some of my projects with code examples and links.
 
 ---
 
+### 📥 [DownloaderUI](https://github.com/YourUser/DownloaderUI)
+
+A Qt6-based desktop downloader that launches multiple files in parallel threads, shows live progress in a neon‑on‑dark UI, and works on Windows, Linux & macOS.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qt-6.x-blue?logo=qt" alt="Qt6"/>
+  <img src="https://img.shields.io/badge/CMake-3.16%2B-orange?logo=cmake" alt="CMake"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-17+-lightgrey?logo=c%2B%2B" alt="C++17"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YourUser/DownloaderUI"><img src="https://github.com/YourUser/DownloaderUI/raw/main/assets/DownloaderUI.gif" alt="DownloaderUI Demo" width="400"/></a>
+</p>
+
+[▶ View Demo](https://github.com/YourUser/DownloaderUI) • [⭐ Star](https://github.com/YourUser/DownloaderUI/stargazers) • [📄 License](https://github.com/YourUser/DownloaderUI/blob/main/LICENSE)
+
 ### 🧮 Calorie Calculator (C++ Console App)
 
 A polished Windows console application to track daily calories and macros. Includes template search, calendar navigation, and food editing—all accessible with keyboard controls.
