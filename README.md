@@ -38,7 +38,7 @@ Below are some of my projects with code examples and links.
 
 ### 📥 [DownloaderUI](https://github.com/Hambart471/DownloaderUI)
 
-A Qt6-based desktop downloader that launches multiple files in parallel threads, shows live progress in a neon‑on‑dark UI, and works on Windows, Linux & macOS.
+A Qt6‑based desktop downloader that launches multiple files in parallel threads, shows live progress in a neon‑on‑dark UI, and works on Windows, Linux & macOS.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Qt-6.x-blue?logo=qt" alt="Qt6"/>
@@ -47,7 +47,11 @@ A Qt6-based desktop downloader that launches multiple files in parallel threads,
 </p>
 
 <p align="center">
-  <img src="https://github.com/Hambart471/DownloaderUI/raw/main/assets/DownloaderUI.gif" alt="DownloaderUI Demo" width="400"/></a>
+  <img
+    src="https://raw.githubusercontent.com/Hambart471/DownloaderUI/main/assets/DownloaderUI.gif"
+    alt="DownloaderUI Demo"
+    width="400"
+  />
 </p>
 
 ### 🧮 Calorie Calculator (C++ Console App)
