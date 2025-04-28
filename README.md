@@ -54,6 +54,14 @@ A Qt6‑based desktop downloader that launches multiple files in parallel thread
   />
 </p>
 
+### 🛰️ SatelliteSim
+
+A Qt6-based desktop app that simulates satellite telemetry—enter temperature, battery charge, speed and 3D coordinates, calculate time to full charge, and send telemetry over TCP with real-time logging.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hambart471/SatelliteSim/blob/master/SatelliteSim.gif" alt="SatelliteSim Demo" width="400"/>
+</p>
+
 ### 🧮 Calorie Calculator (C++ Console App)
 
 A polished Windows console application to track daily calories and macros. Includes template search, calendar navigation, and food editing—all accessible with keyboard controls.
