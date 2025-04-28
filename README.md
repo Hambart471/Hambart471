@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-Welcome! I am a self-taught C++ developer. In the past year, I’ve been deeply focused on mastering modern C++, practicing on LeetCode, and building small projects to explore:
+Welcome! I am a C++ developer. In the past years, I’ve been deeply focused on mastering modern C++, practicing on LeetCode, and building small projects to explore:
 
 - Algorithms  
 - Data Structures  
